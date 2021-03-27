@@ -6,6 +6,7 @@ This URL pretty well explains where I'm coming from here...
 https://github.com/numpy/numpy/tree/main/numpy
 
 So... uh...Let's read up and find out how python packages work! (In no real particular order...)
+
 It's a battle.. These are the battlefields:
 
 **Python Pathing Chaos:**
